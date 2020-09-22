@@ -8,7 +8,7 @@
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=Leo0426&theme=buefy&show_icons=true)
 
 --- 
-### My projects
+### My favorite projects
 [![leo-blog](https://github-readme-stats.vercel.app/api/pin/?username=Leo0426&repo=leo-blog)](https://github.com/Leo0426/leo-blog)
 
 ---
