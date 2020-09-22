@@ -8,5 +8,5 @@
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=Leo0426&theme=buefy&show_icons=true)
 
 --- 
-
-[![leo-blog](https://github-readme-stats.vercel.app/api/pin/?username=Leo0426&repo=leo-blog)](https://github.com/anuraghazra/github-readme-stats)
+### My projects
+[![leo-blog](https://github-readme-stats.vercel.app/api/pin/?username=Leo0426&repo=leo-blog)](https://github.com/Leo0426/leo-blog)
