@@ -10,3 +10,7 @@
 --- 
 ### My projects
 [![leo-blog](https://github-readme-stats.vercel.app/api/pin/?username=Leo0426&repo=leo-blog)](https://github.com/Leo0426/leo-blog)
+
+---
+
+> To be a better man.
